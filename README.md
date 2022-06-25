@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S N S N DATTA</h1>
 <h3 align="center">Associate Software Developer at Solera INC</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattasnsn&label=Profile%20views&color=0e75b6&style=flat" alt="dattasnsn" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samayamantula.saidatta@gmail.com**
 
-- 📄 Please have a look at my [snsndatta](https://rebrand.ly/Resume_snsndatta)
+- 📄 Please have a look at my [Resume](https://rebrand.ly/Resume_snsndatta) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
