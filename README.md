@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Front End Development**
 
-- 📫 How to reach me **samayamantula.saidatta@gmail.com**
+- 📫 You can email at **samayamantula.saidatta@gmail.com**
 
 - 📄 Please have a look at my [Resume](https://rebrand.ly/Resume_snsndatta) for more details about me. I'm open to feedback and suggestions!
 
