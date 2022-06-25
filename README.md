@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **samayamantula.saidatta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cQcNsH4jCc-2wHXBXbPb3Dm4tOLk1faD/view?usp=sharing](https://drive.google.com/file/d/1cQcNsH4jCc-2wHXBXbPb3Dm4tOLk1faD/view?usp=sharing)
+- 📄 Please have a look at my [snsndatta](https://rebrand.ly/Resume_snsndatta)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
