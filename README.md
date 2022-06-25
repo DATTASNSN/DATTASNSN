@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm S N S N DATTA</h1>
 <h3 align="center">Associate Software Developer at Solera INC</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dattasnsn&label=Profile%20views&color=0e75b6&style=flat" alt="dattasnsn" /> </p>
 
