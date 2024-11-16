@@ -10,7 +10,7 @@
 
 - 📫 You can email at **samayamantula.saidatta@gmail.com**
 
-- 📄 Please have a look at my [Resume]([https://drive.google.com/file/d/10Epy5xjN9ao0XiNFvfhbh0MsxwVbAK2f/view?usp=sharing]) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/10Epy5xjN9ao0XiNFvfhbh0MsxwVbAK2f/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
